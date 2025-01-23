@@ -119,7 +119,7 @@ fun MainContent(modifier: Modifier = Modifier) {
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
-            Greeting(name = "Android")
+            Greeting(name = "Angie")
             Spacer(modifier = Modifier.height(16.dp))
             Text(text = "Button clicked $clickCount times") // Display the click count
             Spacer(modifier = Modifier.height(16.dp))
